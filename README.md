@@ -37,6 +37,4 @@ p3 : This script calculates the feature engineering.
 p4 : This script performs the modelling of the features after the feature engineering process and produce the accuracy metrics.
 
 6. Milestone 6 : Stock Recommendation System
-https://docs.google.com/presentation/d/1fg2A7aoZ0FbdarnkAGxFUp369B9N73Z5IB-L8-hKjxM/edit?usp=sharing
-
-Sildes for the final presentation
+https://docs.google.com/presentation/d/1fg2A7aoZ0FbdarnkAGxFUp369B9N73Z5IB-L8-hKjxM/edit?usp=sharing Sildes for the final presentation
